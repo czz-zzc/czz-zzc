@@ -12,13 +12,13 @@
 
 - 数字 IC 设计
 - SoC 集成
-- RTL 设计
 - FPGA / ASIC
+- 高速接口（PCIe/D2D/Serdes/ETH均有涉猎）
 - EDA 自动化
 
 ⭐ 喜欢做一些实用的开源 RTL 和芯片设计辅助工具。
 
-📈 对 **量化交易 / 因子投资 / 策略研究** 比较感兴趣,但是仍是缅A最大受害者之一  
+📈 对 **量化交易 / 因子投资 / 策略研究** 比较感兴趣,但目前仍是缅A受害者之一😊
 
 
 ### 📊 GitHub Stats
@@ -45,7 +45,7 @@ Focused on:
 
 ⭐ Building and sharing practical open-source RTL projects and chip-design tools.
 
-📈 Interested in **Quantitative Trading / Factor Investing / Strategy Research**.A-share market survivor。  
+📈 Interested in **Quantitative Trading / Factor Investing / Strategy Research**.A-share market survivor😊。  
 
 
 ### 📊 GitHub Stats
