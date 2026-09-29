@@ -1,4 +1,4 @@
-# Hi, I'm Zheng Cao 👋
+# Hi, I'm Czz 👋
 
 [中文](#中文) | [English](#english)
 
