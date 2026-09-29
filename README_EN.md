@@ -4,28 +4,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## English
 
 **SoC / RTL Design Engineer**
 
 Main interests:
 
-- Digital IC Design
-- SoC Integration
+- Digital IC / SoC
 - FPGA / ASIC
-- High-Speed Interfaces, including PCIe / D2D / SerDes / Ethernet
+- High-Speed Interfaces: PCIe / D2D / SerDes / Ethernet
 - EDA Automation
 
-⭐ I enjoy building practical open-source RTL projects and chip-design tools.
+⭐ I enjoy building practical RTL projects and chip-design tools.
 
 📈 Interested in **Quantitative Trading / Factor Investing / Strategy Research**, though I'm still one of the many A-share market victims 😊
+
+`Verilog` `SystemVerilog` `Python` `SoC` `FPGA` `ASIC` `Quant`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=czz-zzc&theme=github" />
 </p>
-
-`Verilog` `SystemVerilog` `Python` `SoC` `FPGA` `ASIC` `Quant`
