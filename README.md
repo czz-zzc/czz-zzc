@@ -18,10 +18,8 @@
 
 ⭐ 喜欢做一些实用的开源 RTL 和芯片设计辅助工具。
 
-📈 对 **量化交易 / 因子投资 / 策略研究** 比较感兴趣。
+📈 对 **量化交易 / 因子投资 / 策略研究** 比较感兴趣,但是仍是缅A最大受害者之一  
 
-🇨🇳 **缅A最大受害者之一**  
-努力用数据和策略理解这个市场。
 
 ### 📊 GitHub Stats
 
@@ -47,10 +45,8 @@ Focused on:
 
 ⭐ Building and sharing practical open-source RTL projects and chip-design tools.
 
-📈 Interested in **Quantitative Trading / Factor Investing / Strategy Research**.
+📈 Interested in **Quantitative Trading / Factor Investing / Strategy Research**.A-share market survivor。  
 
-🇨🇳 **A-share market survivor**  
-Trying to understand the market with data and strategies.
 
 ### 📊 GitHub Stats
 
