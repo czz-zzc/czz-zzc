@@ -19,8 +19,6 @@ Main interests:
 
 📈 Interested in **Quantitative Trading / Factor Investing / Strategy Research**, though I'm still one of the many A-share market victims 😊
 
-`Verilog` `SystemVerilog` `Python` `SoC` `FPGA` `ASIC` `Quant`
-
 ---
 
 ## 📊 GitHub Stats
