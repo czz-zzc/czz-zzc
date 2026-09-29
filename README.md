@@ -25,6 +25,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=czz-zzc&theme=github" />
 </p>
