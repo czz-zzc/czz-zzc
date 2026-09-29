@@ -24,5 +24,5 @@ Main interests:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=czz-zzc&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=czz-zzc&theme=radical" />
 </p>
