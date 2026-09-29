@@ -19,7 +19,6 @@
 
 📈 对 **量化交易 / 因子投资 / 策略研究** 感兴趣，目前仍是缅A受害者之一 😊
 
-`Verilog` `SystemVerilog` `Python` `SoC` `FPGA` `ASIC` `Quant`
 
 ---
 
