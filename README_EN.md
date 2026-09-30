@@ -6,7 +6,7 @@
 
 ## English
 
-**SoC / RTL Design Engineer**
+**SoC Design Engineer**
 
 Main interests:
 
